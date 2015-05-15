@@ -19,11 +19,11 @@ import time
 
 
 
-
-EMAIL="salt_ec2_hosts"
+#Use a gmail account, do NOT include @gmail.com
+EMAIL="EMAIL GOES HERE"
 ALIAS="EC2"
 NAME="Salt Hosts"
-PASSWORD="whitedragon"
+PASSWORD="PASSWORD GOES HERE"
 OFFSET=12
 
 locations = ["18015","Bethlehem","PA"],["55311","Osseo","MN"],["12533","Hopewell Junction","NY"],["44004","Ashtabula","OH"],["14606","Rochester","NY"],["11357","Whitestone","NY"],["33470","Loxahatchee","FL"],["32708","Winter Springs","FL"],["19454","North Wales","PA"],["32043","Green Cove Springs","FL"],["30040","Cumming","GA"],["46060","Noblesville","IN"],["78213","San Antonio","TX"],["02816","Coventry","RI"],["01089","West Springfield","MA"],["33460","Lake Worth","FL"],["29730","Rock Hill","SC"],["30721","Dalton","GA"],["14450","Fairport","NY"],["34711","Clermont","FL"]
